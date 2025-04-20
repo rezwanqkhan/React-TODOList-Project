@@ -89,4 +89,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 👤 **Rezwanullah Quraishi**
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rezwanullah-quraishi-608314260/)
+- LinkedIn: [Click here](https://www.linkedin.com/in/rezwanullah-quraishi-608314260/)
